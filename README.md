@@ -1,7 +1,6 @@
 # AirBnB clone - Web dynamic
 
-[!img](https://github.com/MA-Abahmane/AirBnB_clone_v4/blob/main/hbnb_step5.png)
-
+![img](https://github.com/MA-Abahmane/AirBnB_clone_v4/blob/main/hbnb_step5.png)
 
 
 # AirBnB Clone - The Console
