@@ -1,2 +1,14 @@
 #!/usr/bin/env bash
 
+# We will work on a codebase using Flasgger
+sudo apt-get install -y python3-lxml
+sudo pip3 install flask_cors # if it was not installed yet
+sudo pip3 install flasgger
+
+# jsonschema exception
+sudo pip3 uninstall -y jsonschema 
+sudo pip3 install jsonschema==3.0.1
+
+# No module named 'pathlib2' fix
+sudo pip3 install pathlib2
+
